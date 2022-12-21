@@ -1,2 +1,4 @@
 this is my first file in git
 Adding some values in the file
+chnge the same from git bash
+
